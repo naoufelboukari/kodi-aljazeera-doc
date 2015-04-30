@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.aljazeera.doc" name="Aljazeera Doc" version="1.0.0" provider-name="naoufel boukari">
+<addon id="plugin.video.Quran.tv" name="Quran TV ksa" version="1.0.0" provider-name="naoufel boukari">
     <requires>
 		<import addon="xbmc.python" version="2.14.0"/>
 	</requires>
@@ -8,11 +8,11 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<platform>all</platform>
-		<summary lang="en">Aljazeera Doc</summary>
-		<description lang="en">Aljazeera Doc live stream</description>
+		<summary lang="en">Quran TV ksa</summary>
+		<description lang="en">Quran TV ksa live stream</description>
 		<license>GNU General Public License, v2</license>
 		<language></language>
-		<source>https://github.com/naoufelboukari/kodi-aljazeera-doc</source>
+		<source>https://github.com/naoufelboukari/kodi-quran-tv</source>
 		<email>naoufeboukari@gmail.com</email>
 	</extension>
 </addon>
